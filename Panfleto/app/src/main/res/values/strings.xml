@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lenguajes de Programación</string>
+    <string name="temas">Temas del Lenguaje</string>
+    <string name="activs">Actividades Didácticas</string>
+    <string name="eval">Evaluaciones a Usuario</string>
+    <string name="progress">Progreso de Usuario</string>
+    <string name="regresar">Regresar a principal</string>
+    <string name="tema_content">Kotlin es un lenguaje de programación alternativo a java, permite hacer aplicaciones móviles de manera más sencilla que java</string>
+    <string name="activs_didac">Se presentan un conjunto de actividades de aprendizajes, que buscan insentivar al usuario, a entender mejor el lenguaje kotlin</string>
+    <string name="eval_usuario">Instrumentos que permiten evaluar el grado de comprensión del usuario de acuerdo a los temas</string>
+    <string name="progress_usuario">Se muestra el grado de avance de cada usuario de acuerdo a las actividades de aprendizaje realizadas</string>
+</resources>
